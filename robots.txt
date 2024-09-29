@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://bonri.github.io/viU/sitemap.viU.gz
